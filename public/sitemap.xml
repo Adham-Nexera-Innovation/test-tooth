@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Landing Page - Highest Priority -->
+    <url>
+        <loc>https://toothmatedental.com/ar</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://toothmatedental.com/ar" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Services Pages - EXISTS in pathnames -->
+    <url>
+        <loc>https://toothmatedental.com/ar/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- About Pages - EXISTS in pathnames -->
+    <url>
+        <loc>https://toothmatedental.com/ar/عن-العيادة</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/عن-العيادة" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/about-clinic" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/about-clinic</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/عن-العيادة" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/about-clinic" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contact Pages - EXISTS in pathnames -->
+    <url>
+        <loc>https://toothmatedental.com/ar/تواصل-معنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تواصل-معنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/contact-us" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/contact-us</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تواصل-معنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/contact-us" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blogs Pages - EXISTS in pathnames -->
+    <url>
+        <loc>https://toothmatedental.com/ar/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Before and After Pages - MISSING from sitemap, ADD THESE -->
+    <url>
+        <loc>https://toothmatedental.com/ar/حالات-قبل-وبعد</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/حالات-قبل-وبعد" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/cases-before-and-after" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/cases-before-and-after</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/حالات-قبل-وبعد" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/cases-before-and-after" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Team Pages - MISSING from sitemap, ADD THESE -->
+    <url>
+        <loc>https://toothmatedental.com/ar/فريق-عمل-توث-ميت</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/فريق-عمل-توث-ميت" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/toothmate-team" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/toothmate-team</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/فريق-عمل-توث-ميت" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/toothmate-team" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Individual Service Pages - CORRECT URLs based on pathnames -->
+    <!-- Note: URLs in sitemap don't match pathnames - need to update -->
+    <url>
+        <loc>https://toothmatedental.com/ar/زراعة-الأسنان/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/زراعة-الأسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-implants" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/dental-implants</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/زراعة-الأسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-implants" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/جراحة-الأسنان/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/جراحة-الأسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-surgery" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/dental-surgery</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/جراحة-الأسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-surgery" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/هوليوود-سمايل/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/هوليوود-سمايل/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/hollywood-smile" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/hollywood-smile</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/هوليوود-سمايل/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/hollywood-smile" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/تقويم-الاسنان/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تقويم-الاسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-braces" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/dental-braces</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تقويم-الاسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-braces" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/الحشوات-التجميلية/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/الحشوات-التجميلية/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/cosmetic-dentistry" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/cosmetic-dentistry</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/الحشوات-التجميلية/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/cosmetic-dentistry" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/تركيبات-الاسنان/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تركيبات-الاسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-prosthetics" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/dental-prosthetics</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تركيبات-الاسنان/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/dental-prosthetics" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/حشو-العصب/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/حشو-العصب/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/root-canal" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/root-canal</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/حشو-العصب/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/root-canal" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/طب-أسنان-ألاطفال/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/طب-أسنان-ألاطفال/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/pediatric-dentistry" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/pediatric-dentistry</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/طب-أسنان-ألاطفال/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/pediatric-dentistry" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/التخدير-الكلي/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/التخدير-الكلي/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/general-anesthesia" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/general-anesthesia</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/التخدير-الكلي/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/general-anesthesia" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/حالات-كسور-الفك/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/حالات-كسور-الفك/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/jaw-fractures" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/jaw-fractures</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/حالات-كسور-الفك/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/jaw-fractures" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/جراحات-أورام-الفم/خدماتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/جراحات-أورام-الفم/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/oral-tumors-surgery" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-services/oral-tumors-surgery</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/جراحات-أورام-الفم/خدماتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-services/oral-tumors-surgery" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Individual Blog Pages - CORRECT URLs -->
+    <url>
+        <loc>https://toothmatedental.com/ar/كل-ما-تحتاج-معرفتة-عن-التخدير-الكلي-للاسنان/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/كل-ما-تحتاج-معرفتة-عن-التخدير-الكلي-للاسنان/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/all-you-need-to-know-about-general-anesthesia" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/all-you-need-to-know-about-general-anesthesia</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/كل-ما-تحتاج-معرفتة-عن-التخدير-الكلي-للاسنان/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/all-you-need-to-know-about-general-anesthesia" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/أسعار-التقويم-في-مصر/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/أسعار-التقويم-في-مصر/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/braces-price-in-egypt" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/braces-price-in-egypt</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/أسعار-التقويم-في-مصر/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/braces-price-in-egypt" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/تبييض-ألاسنان/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تبييض-ألاسنان/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/tooth-whitening" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/tooth-whitening</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/تبييض-ألاسنان/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/tooth-whitening" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/دليل-زراعة-الأسنان-في-مصر-2025/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/دليل-زراعة-الأسنان-في-مصر-2025/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/egypt-dental-implant-2025" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/egypt-dental-implant-2025</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/دليل-زراعة-الأسنان-في-مصر-2025/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/egypt-dental-implant-2025" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/دليلك-الكامل-لحشو-العصب/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/دليلك-الكامل-لحشو-العصب/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/root-canal-treatment-egypt-2025" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/root-canal-treatment-egypt-2025</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/دليلك-الكامل-لحشو-العصب/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/root-canal-treatment-egypt-2025" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/أفضل-دكتور-اسنان-قريب-منك-في-المعادي/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/أفضل-دكتور-اسنان-قريب-منك-في-المعادي/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/best-dentist-near-you-maadi" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/best-dentist-near-you-maadi</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/أفضل-دكتور-اسنان-قريب-منك-في-المعادي/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/best-dentist-near-you-maadi" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/دليلك-لأفضل-نركيبات-الأسنان-في-المعادي/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/دليلك-لأفضل-نركيبات-الأسنان-في-المعادي/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/best-fixed-dental-prosthesis" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/best-fixed-dental-prosthesis</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/دليلك-لأفضل-نركيبات-الأسنان-في-المعادي/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/best-fixed-dental-prosthesis" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/هوليود-اسمايل/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/هوليود-اسمايل/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/hollywood-smile" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/hollywood-smile</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/هوليود-اسمايل/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/hollywood-smile" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/الحشوات-التجميلية/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/الحشوات-التجميلية/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/teeth-filling" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/teeth-filling</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/الحشوات-التجميلية/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/teeth-filling" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/ar/أفضل-دكتور-أسنان-متحصص-بالمعادي/مقالاتنا</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/أفضل-دكتور-أسنان-متحصص-بالمعادي/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/best-pediatric-dentist-maadi" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://toothmatedental.com/en/our-blogs/best-pediatric-dentist-maadi</loc>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://toothmatedental.com/ar/أفضل-دكتور-أسنان-متحصص-بالمعادي/مقالاتنا" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://toothmatedental.com/en/our-blogs/best-pediatric-dentist-maadi" />
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>

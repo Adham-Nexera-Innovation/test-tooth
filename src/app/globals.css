@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+
+@theme inline {
+  --font-cairo: 'Cairo', sans-serif;
+}
+
+
+@layer base {
+  body {
+    font-family: var(--font-cairo);
+  }
+}
+
+@layer utilities {
+  .container-custom {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+  }
+}
+
+@layer utilities {
+  @media (min-width: 1040px) and (max-width: 1240px) {
+    .ml-between-1040-1240 {
+      margin-left: -1200px;
+    }
+  }
+}
+
+@layer utilities {
+        @media (max-width: 768px) {
+          .blog-paragraph-left{
+            position: relative;
+            padding-left: 20px;
+          }
+          .blog-paragraph-left::before{
+            content: "•";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #004E6A;
+            font-weight: bold;
+          }
+        }
+}
+
+@layer utilities {
+        @media (max-width: 768px) {
+          .blog-paragraph-right{
+            position: relative;
+            padding-right: 20px;
+          }
+          .blog-paragraph-right::before{
+            content: "•";
+            position: absolute;
+            right: 0;
+            top: 0;
+            color: #004E6A;
+            font-weight: bold;
+          }
+        }
+} 
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+
+html, body {
+  height: auto;
+  min-height: 100vh;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ToothMate Dental Clinic",
+  "short_name": "ToothMate",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#04729A",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "ltr",
+  "categories": ["health", "medical"],
+  "description": "Best dental clinic in Maadi - عيادة أسنان متكاملة في المعادي",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180", 
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "redirects": [
+    {
+      "source": "/blogs/best-dentist-near-me",
+      "destination": "/ar/أفضل-دكتور-اسنان-قريب-منك-في-المعادي",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/anesthesia",
+      "destination": "/ar/كل-ما-تحتاج-معرفتة-عن-التخدير-الكلي-للاسنان",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/braces-price",
+      "destination": "/ar/أسعار-التقويم-في-مصر",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/tooth-whitening",
+      "destination": "/ar/تبييض-ألاسنان",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/dental-implants",
+      "destination": "/ar/دليل-زراعة-الأسنان-في-مصر-2025",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/root-canal",
+      "destination": "/ar/دليلك-الكامل-لحشو-العصب",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/fixed-dental-prosthesis",
+      "destination": "/ar/دليلك-لأفضل-نركيبات-الأسنان-في-المعادي",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/hollywood-smile",
+      "destination": "/ar/هوليود-اسمايل",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/fillings",
+      "destination": "/ar/الحشوات-التجميلية",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/pediatric-dentist-maadi",
+      "destination": "/ar/أفضل-دكتور-أسنان-متحصص-بالمعادي",
+      "permanent": true
+    },
+    {
+      "source": "/services/implant",
+      "destination": "/ar/زراعة-الأسنان",
+      "permanent": true
+    },
+    {
+      "source": "/services/surgery",
+      "destination": "/ar/جراحة-الأسنان",
+      "permanent": true
+    },
+    {
+      "source": "/services/hollywood-smile",
+      "destination": "/ar/هوليوود-سمايل",
+      "permanent": true
+    },
+    {
+      "source": "/services/braces",
+      "destination": "/ar/تقويم-الاسنان",
+      "permanent": true
+    },
+    {
+      "source": "/services/cosmetic",
+      "destination": "/ar/الحشوات-التجميلية",
+      "permanent": true
+    },
+    {
+      "source": "/services/dental-prosthetics",
+      "destination": "/ar/تركيبات-الاسنان",
+      "permanent": true
+    },
+    {
+      "source": "/services/root-canal",
+      "destination": "/ar/حشو-العصب",
+      "permanent": true
+    },
+    {
+      "source": "/services/pediatric-dentistry",
+      "destination": "/ar/طب-أسنان-ألاطفال",
+      "permanent": true
+    },
+    {
+      "source": "/services/general-anesthesia",
+      "destination": "/ar/التخدير-الكلي",
+      "permanent": true
+    },
+    {
+      "source": "/services/jaw-fractures",
+      "destination": "/ar/حالات-كسور-الفك",
+      "permanent": true
+    },
+    {
+      "source": "/services/oral-tumors",
+      "destination": "/ar/جراحات-أورام-الفم",
+      "permanent": true
+    },
+    {
+      "source": "/contact-us",
+      "destination": "/ar/تواصل-معنا",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/ar/عن-العيادة",
+      "permanent": true
+    },
+    {
+      "source": "/team",
+      "destination": "/ar/فريق-عمل-توث-ميت",
+      "permanent": true
+    }
+  ]
+}

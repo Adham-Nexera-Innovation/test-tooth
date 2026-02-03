@@ -4,6 +4,8 @@ const withNextIntl = createNextIntlPlugin();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    // Disable trailing slash redirects to prevent 307 redirects
+    trailingSlash: false,
     async headers() {
         return [
             {

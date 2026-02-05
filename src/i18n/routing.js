@@ -4,7 +4,7 @@ export const routing = defineRouting({
     locales: ['ar', 'en'],
     defaultLocale: 'ar',
     localePrefix: 'never',
-    localeDetection: false, // Disable automatic locale detection to prevent redirects
+    localeDetection: true, // Disable automatic locale detection to prevent redirects
     pathnames: {
         '/': '/',
         '/services': {

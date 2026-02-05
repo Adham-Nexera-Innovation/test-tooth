@@ -258,7 +258,7 @@ export default function Header() {
                             </Link>
                         </li>
                         <li itemProp="name">
-                            <Link href={`/${locale}/toothmate-team`} className={getLinkClasses("/team")} onClick={handleLinkClick} prefetch={true} itemProp="url">
+                            <Link href={`/${locale}/team`} className={getLinkClasses("/team")} onClick={handleLinkClick} prefetch={true} itemProp="url">
                                 {t("team")}
                             </Link>
                         </li>
@@ -352,7 +352,7 @@ export default function Header() {
                                 </Link>
                             </li>
                             <li itemProp="name">
-                                <Link href={`/${locale}/toothmate-team`} className={getMobileLinkClasses("/team")} onClick={handleLinkClick} prefetch={true} itemProp="url">
+                                <Link href={`/${locale}/team`} className={getMobileLinkClasses("/team")} onClick={handleLinkClick} prefetch={true} itemProp="url">
                                     {t("team")}
                                 </Link>
                             </li>

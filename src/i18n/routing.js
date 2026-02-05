@@ -15,7 +15,7 @@ export const routing = defineRouting({
             ar: '/مقالاتنا',
             en: '/our-blogs'
         },
-        '/about': {
+        'ar/about': {
             ar: '/عن-العيادة',
             en: '/about-clinic'
         },

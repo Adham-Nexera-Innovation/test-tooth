@@ -2,7 +2,7 @@ import { defineRouting } from 'next-intl/routing';
 
 export const routing = defineRouting({
     locales: ['ar', 'en'],
-    defaultLocale: 'ar',
+    defaultLocale: 'default',
     localePrefix: 'never',
     localeDetection: true, // Disable automatic locale detection to prevent redirects
     // pathnames: {
